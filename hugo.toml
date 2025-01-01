@@ -1,4 +1,4 @@
-baseurl = "https://rignitc.github.io/blogs"
+baseurl = "https://rignitc.github.io/blogs/"
 defaultContentLanguage = "en"
 languageCode = "en"
 title = "RIG-NITC Blogs"
@@ -42,7 +42,7 @@ footerBottomText = "🤖 Powered by pure love for robotics"
 
 siteStartYear = 2024
 
-# favicon = "favicon.ico"
+favicon = "favicon.ico"
 
 # Syntax highlighting
 # customSyntaxHighlighting = true
@@ -59,7 +59,7 @@ siteStartYear = 2024
 # reorderShares = ["x", "facebook", "whatsapp"]
 
 [params.navItems]
-series = { href = "/series", icon = "planet", title = "Series" }
+series = { href = "series", icon = "planet", title = "Series" }
 github = { href = "https://github.com/rignitc", target = "_blank", icon = "logo-github", title = "GitHub" }
 
 # [params.advanced]
