@@ -1,10 +1,10 @@
 # Go to https://ionic.io/ionicons to find available icons.
 socials = [
-  { href = "https://github.com/g1eny0ung", target="_blank", icon = "logo-github", title = "GitHub" },
-  { href = "https://x.com/g1eny0ung", target="_blank", icon = "logo-x", title = "X" },
-  # { href = "https://facebook.com/g1eny0ung", target="_blank", icon = "logo-facebook", title = "Facebook" },
-  # { href = "https://instagram.com/g1eny0ung", target="_blank", icon = "logo-instagram", title = "Instagram" },
-  { href = "https://www.linkedin.com/in/g1eny0ung", target="_blank", icon = "logo-linkedin", title = "Linkedin" },
-  { href = "https://stackoverflow.com/users/5676489/g1eny0ung", target="_blank", icon = "logo-stackoverflow", title = "stack overflow" },
+  { href = "https://www.linkedin.com/company/rignitc", target="_blank", icon = "logo-linkedin", title = "Linkedin" },
+  { href = "https://github.com/rignitc", target="_blank", icon = "logo-github", title = "GitHub" },
+  { href = "https://www.instagram.com/rig_nitc/", target="_blank", icon = "logo-instagram", title = "Instagram" },
+  { href = "https://x.com/rignitc", target="_blank", icon = "logo-x", title = "X" },
+  { href = "https://www.facebook.com/rignitc/", target="_blank", icon = "logo-facebook", title = "Facebook" },
+  # { href = "https://stackoverflow.com/users/5676489/g1eny0ung", target="_blank", icon = "logo-stackoverflow", title = "stack overflow" },
   # { href = "https://codepen.io/g1eny0ung", target="_blank", icon = "logo-codepen", title = "Codepen" },
 ]
