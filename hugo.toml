@@ -4,11 +4,11 @@ languageCode = "en"
 title = "RIG-NITC Blogs"
 theme = "dream"
 
-# [services]
+[services]
 # [services.disqus]
 # shortname = ""
-# [services.googleAnalytics]
-# ID = ""
+[services.googleAnalytics]
+ID = "G-CPENBPWFNZ"
 
 [params]
 zenMode = false
