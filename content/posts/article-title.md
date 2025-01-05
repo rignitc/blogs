@@ -1,7 +1,7 @@
 ---
 title: Article Title
-date: 2024-12-31T20:02:57+05:30
-lastmod: 2024-12-31T20:02:57+05:30
+date: 2025-01-01T20:02:57+05:30
+lastmod: 2025-01-01T20:02:57+05:30
 author: Author Name
 # avatar: /img/author.jpg
 # authorlink: https://author.site

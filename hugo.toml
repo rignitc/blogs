@@ -40,7 +40,7 @@ footerBottomText = "🤖 Powered by pure love for robotics"
 
 # email = ""
 
-siteStartYear = 2024
+siteStartYear = 2025
 
 favicon = "favicon.ico"
 
@@ -48,11 +48,11 @@ favicon = "favicon.ico"
 # customSyntaxHighlighting = true
 
 # options
-# stickyNav = true
+stickyNav = true
 # reorderNavItems = ["search", "rss", "posts", "categories", "tags"]
 # collapseNavItems = ["posts", "categories", "tags"]
-# noDefaultSummaryCover = true
-# showTableOfContents = true
+noDefaultSummaryCover = true
+showTableOfContents = true
 # showSummaryCoverInPost = true
 # imageZoomableInPost = true
 # showPrevNextPost = true
@@ -69,3 +69,8 @@ github = { href = "https://github.com/rignitc", target = "_blank", icon = "logo-
 # [params.experimental]
 # jsDate = true
 # jsDateFormat = "yyyy年MM月dd日"
+
+# [markup]
+#   [markup.goldmark]
+#     [markup.goldmark.renderer]
+#         unsafe = true
