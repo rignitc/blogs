@@ -9,7 +9,7 @@ cover: cover.png
 images:
   - cover.png
 categories:
-  - category1
+  - rig
 tags:
   - tag1
   - tag2
