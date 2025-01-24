@@ -9,7 +9,7 @@ cover: cover.png
 images:
   - cover.png
 categories:
-  - category1
+  - rig
 tags:
   - tag1
   - tag2
@@ -19,9 +19,10 @@ draft: false
 
 <!-- Summary -->
 
+Hello there, welcome to the shiny new RIG-NITC blog!
+
 <!--more-->
 
-Hello there, welcome to the shiny new RIG-NITC blog!
 
 A cornucopia for all robotics enthusiasts and tech-savvy people out there from a group of people whose mind rejoices with perpetual passion for Robotics and more.
 
