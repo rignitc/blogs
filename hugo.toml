@@ -27,7 +27,7 @@ motto = "Because all we do is robotics"
 
 footerBottomText = "🤖 Powered by pure love for robotics"
 
-# rss = true
+rss = true
 
 # utterancesRepo = ""
 
@@ -70,7 +70,7 @@ github = { href = "https://github.com/rignitc", target = "_blank", icon = "logo-
 # jsDate = true
 # jsDateFormat = "yyyy年MM月dd日"
 
-# [markup]
-#   [markup.goldmark]
-#     [markup.goldmark.renderer]
-#         unsafe = true
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+        unsafe = true
