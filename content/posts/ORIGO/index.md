@@ -23,4 +23,4 @@ ORIGO RESOURCES
 
 Click the folder icon below to visit the destination:
 
-[![How it all began](image.png "How it all began")](https://rignitc.github.io/origo24/)
+[![How it all began](image.png)](https://rignitc.github.io/origo24/)
