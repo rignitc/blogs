@@ -23,4 +23,4 @@ ORIGO RESOURCES
 
 Click the folder icon below to visit the destination:
 
-[![Folder Icon](https://img.icons8.com/?size=100&id=97608&format=png&color=000000)](https://rignitc.github.io/origo24/)
+[![How it all began](image.png "How it all began")](https://rignitc.github.io/origo24/)
