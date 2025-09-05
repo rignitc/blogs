@@ -1,4 +1,4 @@
-baseurl = "https://rignitc.github.io/blogs/"
+baseurl = "https://blog.rignitc.com/"
 defaultContentLanguage = "en"
 languageCode = "en"
 title = "RIG-NITC Blogs"
