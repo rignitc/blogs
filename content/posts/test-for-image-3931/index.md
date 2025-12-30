@@ -5,7 +5,6 @@ author: "Deepankuran"
 tags: ["test", "image"]
 description: "Test for Image by Deepankuran"
 category: "Blog"
-cover: "cover.png"
 ---
 
 # Test 
